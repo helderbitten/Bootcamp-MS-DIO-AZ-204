@@ -10,4 +10,4 @@ Seguindo a sequência da aula de orientação do laboratório, conforme apresent
 
 
 ## Laboratório -> Criando um Gerenciador de Catálogos da Netflix com Azure Functions e Banco de Dados
-Um laboratório complexo, porém extremamnete desafiador! Neste laboratório repliquei usando o Azure seguindo as orientações do Professor Henrique, apresentadas nas aulas do laboratório. Criei o Resource Group da FLIXDIO e configurações seguintes para o API Management Service. Criei o CosmosDB conforme proposto pelo professor. Criei a Storage Account seguindo o passo a passo da aula. Repliquei as Azure Functions conforme apresentadas no projeto até o final do laboratório.
+Um laboratório complexo, porém extremamente desafiador! Neste laboratório repliquei usando o Azure seguindo as orientações do Professor Henrique, apresentadas nas aulas do laboratório. Criei o Resource Group da FLIXDIO e configurações seguintes para o API Management Service. Criei o CosmosDB conforme proposto pelo professor. Criei a Storage Account seguindo o passo a passo da aula. Repliquei as Azure Functions conforme apresentadas no projeto até o final do laboratório.
