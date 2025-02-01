@@ -2,4 +2,4 @@
 Bootcamp Microsoft Certification Challenge #2 AZ-204
 
 ## Laboratório -> Criando um Microsserviço Serverless para Validação de CPF
-Neste laboratório repliquei e segui as orientações dadas pelo Professor Henrique. Inicialmente fiz o download das ferramentas necessárias e instalei: VS Code, DotNet 8 SDK, Azure CLI e o Azure Function Core Tools. Criei a Azure Function com o DotNet8, conforme explicado na aula do lab. e seguindo o passo a passo da sequência com os códigos necessários para a validação do CPF, conforme o professor disponibilizou no GitHub. 
+Neste laboratório repliquei e segui as orientações dadas pelo Professor Henrique. Inicialmente fiz o download das ferramentas necessárias e instalei: VS Code, DotNet 8 SDK, Azure CLI e o Azure Function Core Tools. Criei a Azure Function com o DotNet8, conforme explicado na aula do lab. e seguindo o passo a passo da sequência com os códigos necessários para a validação do CPF. 
